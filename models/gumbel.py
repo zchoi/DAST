@@ -1,7 +1,3 @@
-'''
- This code is cloned from https://github.com/daqingliu/NMTree/blob/master/models/gumbel.py
-'''
-
 import torch
 from torch import nn
 from torch.nn import functional
