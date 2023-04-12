@@ -1,9 +1,3 @@
-'''
-This code is cloned from https://github.com/allenai/allennlp/blob/master/allennlp/nn/beam_search.py
-
-DOCUMENTS: https://docs.allennlp.org/master/api/nn/beam_search/
-'''
-
 from typing import List, Callable, Tuple, Dict
 import warnings
 
